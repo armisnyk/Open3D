@@ -5,3 +5,4 @@ m2r2==0.3.3.post2
 matplotlib==3.7.3
 nbsphinx==0.9.3
 sphinx==7.1.2
+tornado>=6.4.2 # not directly required, pinned by Snyk to avoid a vulnerability
